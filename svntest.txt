@@ -1,3 +1,10 @@
 svntest
 열심히 하자
+<<<<<<< HEAD
 마스터
+=======
+재수정
+브랜치 연습
+>>>>>>> test_branch1
+branch2
+master1
